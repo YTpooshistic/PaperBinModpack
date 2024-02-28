@@ -65,6 +65,10 @@ It's modpack for PaperBin's plaers. You can watch video about whis modpack and h
 - [Better Advancements](https://modrinth.com/mod/better-advancements)
 - [RP Renames](https://modrinth.com/mod/rp-renames)
 - [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
+- [ToolTipFix](https://modrinth.com/mod/tooltipfix)
+- [Better Recipe Book](https://modrinth.com/mod/brb)
+- [Zoomify](https://modrinth.com/mod/zoomify)
+- [CraftPresence](https://modrinth.com/mod/craftpresence)
 
 **Auxiliary mods**
 - [Fabric API](https://modrinth.com/mod/fabric-api)
@@ -72,3 +76,4 @@ It's modpack for PaperBin's plaers. You can watch video about whis modpack and h
 - [MaLiLib](https://modrinth.com/mod/malilib)
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
 - [YACL](https://modrinth.com/mod/yacl)
+- [Architectury API](https://modrinth.com/mod/architectury-api)
