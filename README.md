@@ -5,6 +5,7 @@ It's modpack for PaperBin's plaers. You can watch video about whis modpack and h
 - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 - [Emotecraft](https://modrinth.com/mod/emotecraft)
 - [Status](https://modrinth.com/mod/status)
+- [SkinShuffle](https://modrinth.com/mod/skinshuffle)
 
 **Mods for optimization and mods for sodium**
 - [Sodium](https://modrinth.com/mod/sodium)
@@ -62,6 +63,12 @@ It's modpack for PaperBin's plaers. You can watch video about whis modpack and h
 - [AppleSkin](https://modrinth.com/mod/appleskin)
 - [Boat Item View](https://modrinth.com/mod/boat-item-view)
 - [Better Advancements](https://modrinth.com/mod/better-advancements)
+- [RP Renames](https://modrinth.com/mod/rp-renames)
+- [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
+- [ToolTipFix](https://modrinth.com/mod/tooltipfix)
+- [Better Recipe Book](https://modrinth.com/mod/brb)
+- [Zoomify](https://modrinth.com/mod/zoomify)
+- [CraftPresence](https://modrinth.com/mod/craftpresence)
 
 **Auxiliary mods**
 - [Fabric API](https://modrinth.com/mod/fabric-api)
@@ -69,3 +76,4 @@ It's modpack for PaperBin's plaers. You can watch video about whis modpack and h
 - [MaLiLib](https://modrinth.com/mod/malilib)
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
 - [YACL](https://modrinth.com/mod/yacl)
+- [Architectury API](https://modrinth.com/mod/architectury-api)
