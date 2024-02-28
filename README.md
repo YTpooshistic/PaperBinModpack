@@ -40,7 +40,6 @@ It's modpack for PaperBin's plaers. You can watch video about whis modpack and h
 - [FastAnim](https://modrinth.com/mod/fastanim)
 - [EMF](https://modrinth.com/mod/entity-model-features)
 - [AntiGhoust](https://modrinth.com/mod/antighost)
-- [Puzzle](https://modrinth.com/mod/puzzle)
 - [Spark](https://modrinth.com/mod/spark)
 
 **Mods for bilding**
