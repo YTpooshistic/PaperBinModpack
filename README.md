@@ -34,14 +34,12 @@ It's modpack for PaperBin's plaers. You can watch video about whis modpack and h
 - [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)
 - [Starlight](https://modrinth.com/mod/starlight)
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
-- [Model Gap Fix](https://modrinth.com/mod/modelfix)
 - [EBE](https://modrinth.com/mod/ebe)
 - [ModernFix](https://modrinth.com/mod/modernfix)
 - [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves)
 - [FastAnim](https://modrinth.com/mod/fastanim)
 - [EMF](https://modrinth.com/mod/entity-model-features)
 - [AntiGhoust](https://modrinth.com/mod/antighost)
-- [Puzzle](https://modrinth.com/mod/puzzle)
 - [Spark](https://modrinth.com/mod/spark)
 
 **Mods for bilding**
